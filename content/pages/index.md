@@ -13,16 +13,7 @@ sections:
       Cloud Architect specializing in scalable, secure, and cost-efficient cloud
       solutions across AWS, Azure, and GCP.
 
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+    actions: []
     media:
       url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
